@@ -4,7 +4,7 @@
  *
  * @copyright Copyright (C) 2011 Ronan Guilloux. All rights reserved.
  * @license http://www.gnu.org/licenses/agpl.html GNU AFFERO GPL v3
- * Looking for another licence ? email me at ronan.guilloux@gmail.com
+ * Looking for another license ? email me at ronan.guilloux@gmail.com
  * @version //autogen//
  * @author Ronan Guilloux - coolforest.net
  * @package Datatables.net
